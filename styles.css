@@ -1,46 +1,6 @@
-marquee{
-    text-align: center;
-    border-color: aqua;
-    color:black;
-    font-size: 80px;
-    background-color:beige;
+body{
+    background-color:black;
+    color:white;
+    text-align:center;
 }
-figure{
-   
-    text-align: center;
-    background-image: url(Inspirational-quote-HD-background.jpg);
-    background-size: cover;
-    background-position: center;
-
-        
-    
-}
-figure h1{
-    margin: 0;
-    padding: 0;
-    border: 4px solid black;
-    font-size: 40;
-    width:530px;
-    display:inline-block;
-    background-color: floralwhite;
-}
-nav li{
-    display: inline;
-    height: 35px;
-       margin-right: 3px;
-}
-nav {
- background-color:chartreuse;
-    height:10%;
-}
-nav li a {
-text-decoration: none;
-    background-color:darkgrey;
-    color:darkblue;         
-    font-size: 30px;
-    padding:10;
-    border-radius: 15px;
-}
-
-
     
